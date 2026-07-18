@@ -55,7 +55,7 @@ Aplicação para criação e organização de tarefas utilizando JavaScript.
 ## 📫 Entre em contato
 
 * 📧 E-mail: [arthurarruda114@gmail.com](mailto:arthurarruda114@gmail.com)
-* 💼 LinkedIn: coloque-aqui-o-link-do-seu-linkedin
+* 💼 LinkedIn: arthur-arruda-b0abb21a5
 * 💻 GitHub: [arthurArruda14](https://github.com/arthurArruda14)
 
 ---
