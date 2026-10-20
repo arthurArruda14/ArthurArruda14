@@ -61,3 +61,13 @@ Aplicação para criação e organização de tarefas utilizando JavaScript.
 ---
 
 ⭐ Estou sempre buscando aprender novas tecnologias e desenvolver projetos que me ajudem a evoluir como profissional.
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/arthurArruda14/ArthurArruda14/output/github-snake-dark.svg"
+  />
+  <img
+    alt="Cobrinha das minhas contribuições"
+    src="https://raw.githubusercontent.com/arthurArruda14/ArthurArruda14/output/github-snake.svg"
+  />
+</picture>
